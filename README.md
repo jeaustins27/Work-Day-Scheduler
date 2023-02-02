@@ -26,7 +26,9 @@ Click on the text box with the corresponding hour that you would like to add a t
   ![Work-Day-Colors](./assets/images/work-day.png)
 
   ## Credits
-  There are no collaborators.
+  * [W3Schools](https://www.w3schools.com/)
+  * [Readme.so](https://readme.so/)
+  * [Stack Overflow](https://stackoverflow.com)
 
   
   ## License
